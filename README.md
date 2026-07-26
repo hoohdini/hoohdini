@@ -29,9 +29,3 @@ MediaPipe(478p face mesh + pose)와 Whisper STT로 시선·표정·자세·말�
 
 ### 🐾 [MADI Desktop — 데스크톱 AI 마스코트](https://github.com/hoohdini/Dogo_agent)
 부르면 화면으로 달려오는 픽셀 강아지 도우미. Electron 상주 + 선택 텍스트 물어오기 + 액션별 국내 LLM 라우팅.
-
-## 📊 GitHub Stats
-
-![hoohdini's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoohdini&show_icons=true&hide_border=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoohdini&layout=compact&hide_border=true)
